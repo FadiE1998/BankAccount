@@ -1,4 +1,4 @@
-// Project 3. Fadi Elsadi. I had to erase some lines to meet 250 line requirement. My format before was nicer. 
+// Project 3.
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>

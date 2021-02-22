@@ -1,2 +1,0 @@
-
-        current = atof(data[i]);
